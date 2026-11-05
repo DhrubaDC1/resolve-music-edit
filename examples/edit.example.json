@@ -1,0 +1,362 @@
+{
+ "_comment": "Example from the original 'Dhaka Night' edit: 48 iPhone night clips, a 152 BPM future-bass track, 40.75 s vertical. Clip refs are any unique substring of a file stem.",
+ "project_dir": "/path/to/your/clips",
+ "video_dir": "/path/to/your/clips",
+ "timeline_name": "City Night v1",
+ "width": 2160,
+ "height": 3840,
+ "fps": 24,
+ "music": {
+  "path": "/path/to/your/clips/music/track.mp3",
+  "in": 49.667,
+  "drop": 60.883,
+  "final": 88.073,
+  "bass_end": 89.7,
+  "out": 90.4
+ },
+ "build": [
+  [
+   "C064",
+   4,
+   "wide"
+  ],
+  [
+   "C066",
+   4,
+   "wide"
+  ],
+  [
+   "C068",
+   4,
+   "wide"
+  ],
+  [
+   "C060",
+   4,
+   "wide"
+  ],
+  [
+   "C061",
+   2,
+   ""
+  ],
+  [
+   "C065",
+   2,
+   ""
+  ],
+  [
+   "C057",
+   2,
+   ""
+  ],
+  [
+   "C056",
+   2,
+   ""
+  ],
+  [
+   "C075",
+   1,
+   "burst"
+  ],
+  [
+   "C071",
+   1,
+   "burst"
+  ],
+  [
+   "C079",
+   1,
+   "burst"
+  ],
+  [
+   "C082",
+   1,
+   "whip"
+  ]
+ ],
+ "drop": [
+  [
+   "C090",
+   4,
+   "hero"
+  ],
+  [
+   "C093",
+   2,
+   ""
+  ],
+  [
+   "C092",
+   2,
+   ""
+  ],
+  [
+   "C099",
+   1,
+   "burst"
+  ],
+  [
+   "C100",
+   1,
+   "burst"
+  ],
+  [
+   "C091",
+   4,
+   "hero"
+  ],
+  [
+   "C094",
+   2,
+   ""
+  ],
+  [
+   "C089",
+   2,
+   ""
+  ],
+  [
+   "C078",
+   2,
+   ""
+  ],
+  [
+   "C087",
+   1,
+   "burst"
+  ],
+  [
+   "C076",
+   1,
+   "whip"
+  ],
+  [
+   "C097",
+   4,
+   "hero"
+  ],
+  [
+   "C103",
+   2,
+   ""
+  ],
+  [
+   "C101",
+   2,
+   ""
+  ],
+  [
+   "C085",
+   2,
+   ""
+  ],
+  [
+   "C098",
+   1,
+   "burst"
+  ],
+  [
+   "C070",
+   1,
+   "whip"
+  ],
+  [
+   "C096",
+   4,
+   "hero"
+  ],
+  [
+   "C095",
+   2,
+   ""
+  ],
+  [
+   "C102",
+   2,
+   ""
+  ],
+  [
+   "C084",
+   2,
+   ""
+  ],
+  [
+   "C062",
+   1,
+   "burst"
+  ],
+  [
+   "C077",
+   1,
+   "burst"
+  ],
+  [
+   "C088",
+   2,
+   ""
+  ],
+  [
+   "C069",
+   2,
+   ""
+  ],
+  [
+   "C080",
+   2,
+   ""
+  ],
+  [
+   "C086",
+   1,
+   "burst"
+  ],
+  [
+   "C081",
+   1,
+   "whip"
+  ],
+  [
+   "C083",
+   2,
+   ""
+  ],
+  [
+   "C058",
+   2,
+   ""
+  ],
+  [
+   "C099",
+   1,
+   "burst"
+  ],
+  [
+   "C102",
+   1,
+   "burst"
+  ],
+  [
+   "C100",
+   1,
+   "burst"
+  ],
+  [
+   "C094",
+   1,
+   "burst"
+  ],
+  [
+   "C090",
+   2,
+   ""
+  ],
+  [
+   "C091",
+   2,
+   ""
+  ],
+  [
+   "C092",
+   1,
+   "burst"
+  ],
+  [
+   "C093",
+   1,
+   "burst"
+  ]
+ ],
+ "finale": "C064",
+ "style": {
+  "fx_level": "maximal",
+  "inception": "some",
+  "seed": 3
+ },
+ "cuts": {
+  "12": "zoom",
+  "17": "vortex",
+  "29": "fold",
+  "50": "vortex"
+ },
+ "speed": {
+  "whip": 200,
+  "burst": 140,
+  "finale": 60
+ },
+ "grade": {
+  "slope": [
+   1.06,
+   1.0,
+   0.95
+  ],
+  "offset": [
+   -0.025,
+   -0.012,
+   0.006
+  ],
+  "power": [
+   1.1,
+   1.06,
+   1.02
+  ],
+  "saturation": 1.3,
+  "target_brightness": 72,
+  "halation": true
+ },
+ "titles": {
+  "open": [
+   {
+    "text": "DHAKA",
+    "font": "display",
+    "size": 320,
+    "y": 0.5,
+    "color": [
+     255,
+     255,
+     255
+    ]
+   },
+   {
+    "text": "04.11.2026",
+    "font": "display",
+    "size": 66,
+    "y": 0.599,
+    "color": [
+     255,
+     200,
+     120
+    ],
+    "tracking": 22
+   }
+  ],
+  "open_bars": 2,
+  "over_finale": [],
+  "end": [
+   {
+    "text": "Shot on",
+    "font": "light",
+    "size": 62,
+    "y": 0.469,
+    "color": [
+     235,
+     235,
+     235
+    ]
+   },
+   {
+    "text": "iPhone 13 Pro",
+    "font": "semibold",
+    "size": 104,
+    "y": 0.526
+   }
+  ]
+ },
+ "overlays": {
+  "leaks": true,
+  "grain": 45,
+  "vignette": true,
+  "titles": true
+ }
+}
